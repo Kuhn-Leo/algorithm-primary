@@ -1,5 +1,9 @@
 package class02;
 
+/*对数器的使用
+
+选择、冒泡、插入排序的对数器验证*/
+
 public class Code03_Comp {
 
 	public static void selectionSort(int[] arr) {

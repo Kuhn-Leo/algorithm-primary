@@ -1,5 +1,11 @@
 package class01;
 
+
+/*选择排序
+		0~N-1上选出最小值放到0位置
+		1~N-1上选出最小值放到1位置
+		2~N-1上选出最小值放到2位置
+		…*/
 public class Code03_Sort {
 
 	public static void swap(int[] arr, int i, int j) {

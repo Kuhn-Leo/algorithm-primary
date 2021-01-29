@@ -1,5 +1,11 @@
 package class01;
 
+
+
+/*给定一个参数N，
+
+		返回：  1! + 2! + 3! + 4! + … + N!   的结果*/
+
 public class Code01_PrintBinary {
 
 	public static void print(int num) {
@@ -11,9 +17,9 @@ public class Code01_PrintBinary {
 
 	public static void main(String[] args) {
 		// 32位
-//		int num = 4;
+		int num = 4;
 //
-//		print(num);
+		print(num);
 //		
 //		
 //		int test = 1123123;
@@ -37,8 +43,8 @@ public class Code01_PrintBinary {
 
 //		print(-5);
 
-//		System.out.println(Integer.MIN_VALUE);
-//		System.out.println(Integer.MAX_VALUE);
+		System.out.println(Integer.MIN_VALUE);
+		System.out.println(Integer.MAX_VALUE);
 
 //		int a = 12319283;
 //		int b = 3819283;

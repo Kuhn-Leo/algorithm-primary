@@ -3,6 +3,12 @@ package class04;
 import java.util.ArrayList;
 import java.util.List;
 
+
+/*单双链表的反转
+*
+* 给定一个单链表的头head，完成链表的逆序调整
+
+给定一个双链表的头head，完成链表的逆序调整*/
 public class Code01_ReverseList {
 
 	public static class Node {

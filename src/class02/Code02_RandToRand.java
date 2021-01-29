@@ -1,5 +1,15 @@
 package class02;
 
+
+
+/*介绍随机函数
+
+从1~5随机到1~7随机
+		
+		从a~b随机到c~d随机
+		
+		01不等概率随机到01等概率随机*/
+
 public class Code02_RandToRand {
 
 	// 此函数只能用，不能修改
@@ -58,7 +68,7 @@ public class Code02_RandToRand {
 		}
 	}
 
-	// 利用条件RandomBox，如何等概率返回0和1
+	// 利用条件RandomBox，如何等概率返回0和1 等概率发射器
 	public static int rand01(RandomBox randomBox) {
 		int min = randomBox.min();
 		int max = randomBox.max();

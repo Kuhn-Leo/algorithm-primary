@@ -2,6 +2,9 @@ package class03;
 
 import java.util.Arrays;
 
+
+/*二分法
+有序数组中找到>=num最左的位置*/
 public class Code02_BSNearLeft {
 
 	// arr有序的，>=num 最左

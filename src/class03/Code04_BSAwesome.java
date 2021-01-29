@@ -1,5 +1,9 @@
 package class03;
 
+
+/*二分法
+局部最小值问题
+*/
 public class Code04_BSAwesome {
 
 	// arr 整体无序

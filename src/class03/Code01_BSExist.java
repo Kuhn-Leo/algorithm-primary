@@ -2,6 +2,9 @@ package class03;
 
 import java.util.Arrays;
 
+
+/*二分法
+有序数组中找到num*/
 public class Code01_BSExist {
 
 	// arr保证有序

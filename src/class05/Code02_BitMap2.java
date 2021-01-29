@@ -2,6 +2,7 @@ package class05;
 
 import java.util.HashSet;
 
+/*实现位图*/
 public class Code02_BitMap2 {
 
 	// 这个类的实现是正确的

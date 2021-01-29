@@ -2,6 +2,12 @@ package class01;
 
 import java.util.Arrays;
 
+
+/*冒泡排序
+		0~N-1上选出最小值放到0位置
+		1~N-1上选出最小值放到1位置
+		2~N-1上选出最小值放到2位置
+		…*/
 public class Code05_BubbleSort {
 
 	public static void bubbleSort(int[] arr) {

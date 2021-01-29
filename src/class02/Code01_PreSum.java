@@ -1,5 +1,9 @@
 package class02;
 
+
+/*前置数组
+假设有一个数组arr，用户总是频繁的查询arr中某一段的累加和
+		你如何组织数据，能让这种查询变得便利和快捷？*/
 public class Code01_PreSum {
 
 	public static class RangeSum1 {

@@ -2,6 +2,12 @@ package class01;
 
 import java.util.Arrays;
 
+
+/*插入排序
+		0~N-1上选出最小值放到0位置
+		1~N-1上选出最小值放到1位置
+		2~N-1上选出最小值放到2位置
+		…*/
 public class Code06_InsertionSort {
 
 	public static void insertionSort(int[] arr) {

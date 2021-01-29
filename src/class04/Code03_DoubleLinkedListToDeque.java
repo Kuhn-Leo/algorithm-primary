@@ -3,6 +3,11 @@ package class04;
 import java.util.Deque;
 import java.util.LinkedList;
 
+
+/*
+用双链表结构实现双端队列
+*/
+
 public class Code03_DoubleLinkedListToDeque {
 
 	public static class Node<V> {
